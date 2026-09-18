@@ -1,4 +1,5 @@
 import React from 'react';
+import ProductCard from '../components/ProductCard';
 
 const getProducts = async () => {
   const res = await fetch("http://localhost:5000/products");
@@ -15,6 +16,17 @@ const ProductsPage = async () => {
   return (
     <div>
       Products: {products.length}
+
+      <div className='grid grid-cols-4 gap-10'>
+        {
+          products.map(
+            product => <ProductCard 
+            key={product.id} 
+            product={product}
+            ></ProductCard>
+          )
+        }
+      </div>
     </div>
   );
 };
