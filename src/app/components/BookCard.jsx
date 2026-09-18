@@ -1,8 +1,14 @@
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
+import React, { use } from 'react';
+import { UserContext } from '../context/UserContext';
 
 const BookCard = ({book}) => {
+
+  const user = use(UserContext);
+
+  console.log("user in bookCard:", user)
 
   const {title, image, description} = book;
   return (
