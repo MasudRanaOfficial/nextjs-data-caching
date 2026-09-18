@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Bluetooth Headphones",
+      "description": "Enjoy high-quality sound with these wireless Bluetooth headphones. They feature comfortable ear cushions, long battery life, and noise isolation, making them perfect for music, gaming, and calls.",
+      "price": 45.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch Series 5",
+      "description": "Track your fitness, monitor your daily activities, and stay connected with this stylish smartwatch. It includes health tracking features, notifications, and a long-lasting battery.",
+      "price": 79.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "rating": 4.3,
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "title": "Premium Cotton T-Shirt",
+      "description": "A comfortable and stylish cotton T-shirt designed for everyday wear. Made from soft, breathable fabric, it is perfect for casual outings and relaxing at home.",
+      "price": 19.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "rating": 4.6,
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "title": "Leather Backpack",
+      "description": "Carry your essentials in style with this durable leather backpack. It offers multiple compartments for laptops, books, and personal belongings, making it ideal for students and professionals.",
+      "price": 59.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "rating": 4.4,
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "title": "Running Sports Shoes",
+      "description": "Designed for comfort and performance, these running shoes provide excellent cushioning and support. They are suitable for running, gym workouts, and everyday activities.",
+      "price": 64.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": 6,
+      "title": "Portable Bluetooth Speaker",
+      "description": "Enjoy powerful audio wherever you go with this portable Bluetooth speaker. Its compact design, wireless connectivity, and rechargeable battery make it perfect for outdoor activities.",
+      "price": 34.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+      "rating": 4.2,
+      "stock": 35
+    },
+    {
+      "id": 7,
+      "title": "Classic Analog Wrist Watch",
+      "description": "A timeless analog wristwatch featuring a sleek design and a comfortable strap. Perfect for formal occasions, business meetings, and everyday fashion.",
+      "price": 89.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d",
+      "rating": 4.8,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "title": "Ergonomic Office Chair",
+      "description": "Improve your working comfort with this ergonomic office chair. It features adjustable height, supportive backrest, and comfortable cushioning for long working hours.",
+      "price": 129.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8",
+      "rating": 4.5,
+      "stock": 12
+    },
+    {
+      "id": 9,
+      "title": "Stainless Steel Water Bottle",
+      "description": "Stay hydrated throughout the day with this reusable stainless steel water bottle. Its durable construction and leak-resistant design make it suitable for travel, workouts, and daily use.",
+      "price": 24.99,
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "rating": 4.6,
+      "stock": 40
+    },
+    {
+      "id": 10,
+      "title": "Mechanical Gaming Keyboard",
+      "description": "Enhance your gaming and typing experience with this mechanical keyboard. It features responsive keys, durable construction, and customizable RGB lighting for an immersive setup.",
+      "price": 69.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "rating": 4.4,
+      "stock": 20
+    }
+  ]
+}
